@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn>=0.27
+python-multipart>=0.0.9
+pillow>=10.0
+cryptography>=42.0
+qrcode>=7.4
